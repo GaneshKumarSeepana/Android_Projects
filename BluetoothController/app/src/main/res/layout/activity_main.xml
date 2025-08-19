@@ -1,0 +1,212 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools">
+
+    <androidx.constraintlayout.widget.ConstraintLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:background="#D8DFFF"
+        android:padding="16dp">
+
+        <!-- Bluetooth Connection Section (Top) -->
+        <androidx.cardview.widget.CardView
+            android:id="@+id/bluetoothCard"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            app:cardCornerRadius="12dp"
+            app:cardElevation="6dp"
+            app:layout_constraintTop_toTopOf="parent"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintEnd_toEndOf="parent">
+
+        </androidx.cardview.widget.CardView>
+
+        <!-- Joystick Control Area (Middle) -->
+        <androidx.cardview.widget.CardView
+            android:id="@+id/joystickCard"
+            android:layout_width="400dp"
+            android:layout_height="400dp"
+            app:cardCornerRadius="200dp"
+            app:cardElevation="25dp"
+            app:cardBackgroundColor="#483D8B"
+            app:layout_constraintTop_toBottomOf="@id/bluetoothCard"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintEnd_toEndOf="parent"
+            android:layout_marginTop="250dp"
+            android:layout_marginBottom="32dp">
+
+            <androidx.constraintlayout.widget.ConstraintLayout
+                android:layout_width="match_parent"
+                android:layout_height="match_parent">
+
+                <!-- Forward Button (F) -->
+                <com.google.android.material.button.MaterialButton
+                    android:id="@+id/forwardButton"
+                    android:layout_width="48dp"
+                    android:layout_height="48dp"
+                    android:layout_marginTop="16dp"
+                    android:elevation="4dp"
+                    android:text="F"
+                    android:textColor="#FF000000"
+                    android:textSize="18sp"
+                    app:backgroundTint="#2196F3"
+                    app:layout_constraintEnd_toEndOf="parent"
+                    app:layout_constraintStart_toStartOf="parent"
+                    app:layout_constraintTop_toTopOf="parent"
+                    app:strokeColor="#FFFFFF"
+                    app:strokeWidth="1dp" />
+
+                <!-- Left Button (L) -->
+                <com.google.android.material.button.MaterialButton
+                    android:id="@+id/leftButton"
+                    android:layout_width="48dp"
+                    android:layout_height="48dp"
+                    android:layout_marginStart="16dp"
+                    android:elevation="4dp"
+                    android:text="L"
+                    android:textColor="#FFFFFF"
+                    android:textSize="18sp"
+                    app:backgroundTint="#FF9800"
+                    app:layout_constraintBottom_toBottomOf="parent"
+                    app:layout_constraintStart_toStartOf="parent"
+                    app:layout_constraintTop_toTopOf="parent"
+                    app:strokeColor="#FFFFFF"
+                    app:strokeWidth="1dp" />
+
+                <!-- Right Button (R) -->
+                <com.google.android.material.button.MaterialButton
+                    android:id="@+id/rightButton"
+                    android:layout_width="48dp"
+                    android:layout_height="48dp"
+                    android:layout_marginEnd="16dp"
+                    android:elevation="4dp"
+                    android:text="R"
+                    android:textColor="#FFFFFF"
+                    android:textSize="18sp"
+                    app:backgroundTint="#FF9800"
+                    app:layout_constraintBottom_toBottomOf="parent"
+                    app:layout_constraintEnd_toEndOf="parent"
+                    app:layout_constraintTop_toTopOf="parent"
+                    app:strokeColor="#FFFFFF"
+                    app:strokeWidth="1dp" />
+
+                <!-- Backward Button (B) -->
+                <com.google.android.material.button.MaterialButton
+                    android:id="@+id/backwardButton"
+                    android:layout_width="48dp"
+                    android:layout_height="48dp"
+                    android:layout_marginBottom="16dp"
+                    android:elevation="4dp"
+                    android:text="B"
+                    android:textColor="#FFFFFF"
+                    android:textSize="18sp"
+                    app:backgroundTint="#2196F3"
+                    app:layout_constraintBottom_toBottomOf="parent"
+                    app:layout_constraintEnd_toEndOf="parent"
+                    app:layout_constraintStart_toStartOf="parent"
+                    app:strokeColor="#FFFFFF"
+                    app:strokeWidth="1dp" />
+
+                <!-- Stop Button (S) -->
+                <com.google.android.material.button.MaterialButton
+                    android:id="@+id/stopButton"
+                    android:layout_width="65dp"
+                    android:layout_height="74dp"
+                    android:elevation="4dp"
+                    android:text="S"
+                    android:textColor="#FFFFFF"
+                    android:textSize="20sp"
+                    app:backgroundTint="#F44336"
+                    app:layout_constraintBottom_toBottomOf="parent"
+                    app:layout_constraintEnd_toEndOf="parent"
+                    app:layout_constraintStart_toStartOf="parent"
+                    app:layout_constraintTop_toTopOf="parent"
+                    app:strokeColor="#FFFFFF"
+                    app:strokeWidth="2dp" />
+            </androidx.constraintlayout.widget.ConstraintLayout>
+        </androidx.cardview.widget.CardView>
+
+        <!-- Voice Control Button (Bottom) -->
+        <com.google.android.material.button.MaterialButton
+            android:id="@+id/voiceButton"
+            android:layout_width="81dp"
+            android:layout_height="80dp"
+            android:layout_marginBottom="25dp"
+            android:background="@drawable/ic_mic"
+            app:layout_constraintBottom_toTopOf="@id/voiceResultText"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintHorizontal_bias="0.501"
+            app:layout_constraintStart_toStartOf="parent"
+            app:shapeAppearanceOverlay="@style/ShapeAppearanceOverlay.Squircle"
+            app:strokeColor="#B0BEC5"
+            app:strokeWidth="2dp" />
+
+        <TextView
+            android:id="@+id/voiceResultText"
+            android:layout_width="295dp"
+            android:layout_height="32dp"
+            android:layout_marginBottom="68dp"
+            android:gravity="center"
+            android:text="Say: Forward, Backward, Left, Right, Stop"
+            android:textColor="#9400D3"
+            android:textSize="15sp"
+            android:textStyle="bold"
+            app:layout_constraintBottom_toBottomOf="parent"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintHorizontal_bias="0.504"
+            app:layout_constraintStart_toStartOf="parent" />
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:gravity="center_vertical"
+            android:orientation="horizontal"
+            android:padding="12dp"
+            tools:layout_editor_absoluteX="16dp"
+            tools:layout_editor_absoluteY="124dp">
+
+            <!-- Connect Button -->
+            <com.google.android.material.button.MaterialButton
+                android:id="@+id/connectButton"
+                style="@style/Widget.Material3.Button.ElevatedButton"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Connect"
+                android:textColor="#000000"
+                app:backgroundTint="#4CAF50" />
+
+            <!-- Disconnect Button -->
+            <com.google.android.material.button.MaterialButton
+                android:id="@+id/disconnectButton"
+                style="@style/Widget.Material3.Button.ElevatedButton"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginStart="8dp"
+                android:text="Disconnect"
+                android:textColor="#000000"
+                app:backgroundTint="#F44336" />
+
+            <!-- Status Display -->
+            <TextView
+                android:id="@+id/statusText"
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:layout_marginStart="12dp"
+                android:layout_weight="1"
+                android:gravity="center"
+                android:text="Disconnected"
+                android:textColor="#FF5722"
+                android:textSize="16sp" />
+
+            <ProgressBar
+                android:id="@+id/connectionProgress"
+                android:layout_width="24dp"
+                android:layout_height="24dp"
+                android:indeterminateTint="#4CAF50"
+                android:visibility="gone" />
+
+        </LinearLayout>
+
+    </androidx.constraintlayout.widget.ConstraintLayout>
+</layout>

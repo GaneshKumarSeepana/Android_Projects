@@ -1,0 +1,120 @@
+1. The quick brown fox jumps over the lazy dog.
+2. Dart is a client-optimized language for fast apps.
+3. Flutter uses Dart to build beautiful UIs.
+4. Reading a file in Dart is simple with the dart:io package.
+5. This is the fifth sentence in the file.
+6. The sun rises in the east.
+7. Apples are red, green, or yellow.
+8. Coding is both fun and challenging.
+9. Practice makes perfect.
+10. A watched pot never boils.
+11. The file has exactly thirty lines.
+12. You can write to a file in Dart too.
+13. Always close files after reading or writing.
+14. Lists in Dart are similar to arrays.
+15. String interpolation is easy in Dart.
+16. The sky is blue on a clear day.
+17. Cats sleep for most of the day.
+18. This sentence is just filler text.
+19. The more you learn, the more you grow.
+20. Dart supports both async and sync I/O.
+21. Variables in Dart can be statically or dynamically typed.
+22. This is sentence number twenty-two.
+23. Hello, world!
+24. File I/O is essential for many applications.
+25. Use File.readAsString() to read the whole file.
+26. Error handling is important in file operations.
+27. This sentence will be read by your Dart program.
+28. The next sentence is almost the last one.
+29. Just one more to go!
+30. You've reached the end of the file.
+1. The quick brown fox jumps over the lazy dog.2. Dart is a client-optimized language for fast apps.3. Flutter uses Dart to build beautiful UIs.4. Reading a file in Dart is simple with the dart:io package.5. This is the fifth sentence in the file.6. The sun rises in the east.7. Apples are red, green, or yellow.8. Coding is both fun and challenging.9. Practice makes perfect.10. A watched pot never boils.11. The file has exactly thirty lines.12. You can write to a file in Dart too.13. Always close files after reading or writing.14. Lists in Dart are similar to arrays.15. String interpolation is easy in Dart.16. The sky is blue on a clear day.17. Cats sleep for most of the day.18. This sentence is just filler text.19. The more you learn, the more you grow.20. Dart supports both async and sync I/O.21. Variables in Dart can be statically or dynamically typed.22. This is sentence number twenty-two.23. Hello, world!24. File I/O is essential for many applications.25. Use File.readAsString() to read the whole file.26. Error handling is important in file operations.27. This sentence will be read by your Dart program.28. The next sentence is almost the last one.29. Just one more to go!30. You've reached the end of the file.1. The quick brown fox jumps over the lazy dog.2. Dart is a client-optimized language for fast apps.3. Flutter uses Dart to build beautiful UIs.4. Reading a file in Dart is simple with the dart:io package.5. This is the fifth sentence in the file.6. The sun rises in the east.7. Apples are red, green, or yellow.8. Coding is both fun and challenging.9. Practice makes perfect.10. A watched pot never boils.11. The file has exactly thirty lines.12. You can write to a file in Dart too.13. Always close files after reading or writing.14. Lists in Dart are similar to arrays.15. String interpolation is easy in Dart.16. The sky is blue on a clear day.17. Cats sleep for most of the day.18. This sentence is just filler text.19. The more you learn, the more you grow.20. Dart supports both async and sync I/O.21. Variables in Dart can be statically or dynamically typed.22. This is sentence number twenty-two.23. Hello, world!24. File I/O is essential for many applications.25. Use File.readAsString() to read the whole file.26. Error handling is important in file operations.27. This sentence will be read by your Dart program.28. The next sentence is almost the last one.29. Just one more to go!30. You've reached the end of the file.1. The quick brown fox jumps over the lazy dog.2. Dart is a client-optimized language for fast apps.3. Flutter uses Dart to build beautiful UIs.4. Reading a file in Dart is simple with the dart:io package.5. This is the fifth sentence in the file.6. The sun rises in the east.7. Apples are red, green, or yellow.8. Coding is both fun and challenging.9. Practice makes perfect.10. A watched pot never boils.11. The file has exactly thirty lines.12. You can write to a file in Dart too.13. Always close files after reading or writing.14. Lists in Dart are similar to arrays.15. String interpolation is easy in Dart.16. The sky is blue on a clear day.17. Cats sleep for most of the day.18. This sentence is just filler text.19. The more you learn, the more you grow.20. Dart supports both async and sync I/O.21. Variables in Dart can be statically or dynamically typed.22. This is sentence number twenty-two.23. Hello, world!24. File I/O is essential for many applications.25. Use File.readAsString() to read the whole file.26. Error handling is important in file operations.27. This sentence will be read by your Dart program.28. The next sentence is almost the last one.29. Just one more to go!30. You've reached the end of the file.1. The quick brown fox jumps over the lazy dog.2. Dart is a client-optimized language for fast apps.3. Flutter uses Dart to build beautiful UIs.4. Reading a file in Dart is simple with the dart:io package.5. This is the fifth sentence in the file.6. The sun rises in the east.7. Apples are red, green, or yellow.8. Coding is both fun and challenging.9. Practice makes perfect.10. A watched pot never boils.11. The file has exactly thirty lines.12. You can write to a file in Dart too.13. Always close files after reading or writing.14. Lists in Dart are similar to arrays.15. String interpolation is easy in Dart.16. The sky is blue on a clear day.17. Cats sleep for most of the day.18. This sentence is just filler text.19. The more you learn, the more you grow.20. Dart supports both async and sync I/O.21. Variables in Dart can be statically or dynamically typed.22. This is sentence number twenty-two.23. Hello, world!24. File I/O is essential for many applications.25. Use File.readAsString() to read the whole file.26. Error handling is important in file operations.27. This sentence will be read by your Dart program.28. The next sentence is almost the last one.29. Just one more to go!30. You've reached the end of the file.1. The quick brown fox jumps over the lazy dog.2. Dart is a client-optimized language for fast apps.3. Flutter uses Dart to build beautiful UIs.4. Reading a file in Dart is simple with the dart:io package.5. This is the fifth sentence in the file.6. The sun rises in the east.7. Apples are red, green, or yellow.8. Coding is both fun and challenging.9. Practice makes perfect.10. A watched pot never boils.11. The file has exactly thirty lines.12. You can write to a file in Dart too.13. Always close files after reading or writing.14. Lists in Dart are similar to arrays.15. String interpolation is easy in Dart.16. The sky is blue on a clear day.17. Cats sleep for most of the day.18. This sentence is just filler text.19. The more you learn, the more you grow.20. Dart supports both async and sync I/O.21. Variables in Dart can be statically or dynamically typed.22. This is sentence number twenty-two.23. Hello, world!24. File I/O is essential for many applications.25. Use File.readAsString() to read the whole file.26. Error handling is important in file operations.27. This sentence will be read by your Dart program.28. The next sentence is almost the last one.29. Just one more to go!30. You've reached the end of the file.1. The quick brown fox jumps over the lazy dog.2. Dart is a client-optimized language for fast apps.3. Flutter uses Dart to build beautiful UIs.4. Reading a file in Dart is simple with the dart:io package.5. This is the fifth sentence in the file.6. The sun rises in the east.7. Apples are red, green, or yellow.8. Coding is both fun and challenging.9. Practice makes perfect.10. A watched pot never boils.11. The file has exactly thirty lines.12. You can write to a file in Dart too.13. Always close files after reading or writing.14. Lists in Dart are similar to arrays.15. String interpolation is easy in Dart.16. The sky is blue on a clear day.17. Cats sleep for most of the day.18. This sentence is just filler text.19. The more you learn, the more you grow.20. Dart supports both async and sync I/O.21. Variables in Dart can be statically or dynamically typed.22. This is sentence number twenty-two.23. Hello, world!24. File I/O is essential for many applications.25. Use File.readAsString() to read the whole file.26. Error handling is important in file operations.27. This sentence will be read by your Dart program.28. The next sentence is almost the last one.29. Just one more to go!30. You've reached the end of the file.1. The quick brown fox jumps over the lazy dog.2. Dart is a client-optimized language for fast apps.3. Flutter uses Dart to build beautiful UIs.4. Reading a file in Dart is simple with the dart:io package.5. This is the fifth sentence in the file.6. The sun rises in the east.7. Apples are red, green, or yellow.8. Coding is both fun and challenging.9. Practice makes perfect.10. A watched pot never boils.11. The file has exactly thirty lines.12. You can write to a file in Dart too.13. Always close files after reading or writing.14. Lists in Dart are similar to arrays.15. String interpolation is easy in Dart.16. The sky is blue on a clear day.17. Cats sleep for most of the day.18. This sentence is just filler text.19. The more you learn, the more you grow.20. Dart supports both async and sync I/O.21. Variables in Dart can be statically or dynamically typed.22. This is sentence number twenty-two.23. Hello, world!24. File I/O is essential for many applications.25. Use File.readAsString() to read the whole file.26. Error handling is important in file operations.27. This sentence will be read by your Dart program.28. The next sentence is almost the last one.29. Just one more to go!30. You've reached the end of the file.1. The quick brown fox jumps over the lazy dog.2. Dart is a client-optimized language for fast apps.3. Flutter uses Dart to build beautiful UIs.4. Reading a file in Dart is simple with the dart:io package.5. This is the fifth sentence in the file.6. The sun rises in the east.7. Apples are red, green, or yellow.8. Coding is both fun and challenging.9. Practice makes perfect.10. A watched pot never boils.11. The file has exactly thirty lines.12. You can write to a file in Dart too.13. Always close files after reading or writing.14. Lists in Dart are similar to arrays.15. String interpolation is easy in Dart.16. The sky is blue on a clear day.17. Cats sleep for most of the day.18. This sentence is just filler text.19. The more you learn, the more you grow.20. Dart supports both async and sync I/O.21. Variables in Dart can be statically or dynamically typed.22. This is sentence number twenty-two.23. Hello, world!24. File I/O is essential for many applications.25. Use File.readAsString() to read the whole file.26. Error handling is important in file operations.27. This sentence will be read by your Dart program.28. The next sentence is almost the last one.29. Just one more to go!30. You've reached the end of the file.1. The quick brown fox jumps over the lazy dog.2. Dart is a client-optimized language for fast apps.3. Flutter uses Dart to build beautiful UIs.4. Reading a file in Dart is simple with the dart:io package.5. This is the fifth sentence in the file.6. The sun rises in the east.7. Apples are red, green, or yellow.8. Coding is both fun and challenging.9. Practice makes perfect.10. A watched pot never boils.11. The file has exactly thirty lines.12. You can write to a file in Dart too.13. Always close files after reading or writing.14. Lists in Dart are similar to arrays.15. String interpolation is easy in Dart.16. The sky is blue on a clear day.17. Cats sleep for most of the day.18. This sentence is just filler text.19. The more you learn, the more you grow.20. Dart supports both async and sync I/O.21. Variables in Dart can be statically or dynamically typed.22. This is sentence number twenty-two.23. Hello, world!24. File I/O is essential for many applications.25. Use File.readAsString() to read the whole file.26. Error handling is important in file operations.27. This sentence will be read by your Dart program.28. The next sentence is almost the last one.29. Just one more to go!30. You've reached the end of the file.1. The quick brown fox jumps over the lazy dog.2. Dart is a client-optimized language for fast apps.3. Flutter uses Dart to build beautiful UIs.4. Reading a file in Dart is simple with the dart:io package.5. This is the fifth sentence in the file.6. The sun rises in the east.7. Apples are red, green, or yellow.8. Coding is both fun and challenging.9. Practice makes perfect.10. A watched pot never boils.11. The file has exactly thirty lines.12. You can write to a file in Dart too.13. Always close files after reading or writing.14. Lists in Dart are similar to arrays.15. String interpolation is easy in Dart.16. The sky is blue on a clear day.17. Cats sleep for most of the day.18. This sentence is just filler text.19. The more you learn, the more you grow.20. Dart supports both async and sync I/O.21. Variables in Dart can be statically or dynamically typed.22. This is sentence number twenty-two.23. Hello, world!24. File I/O is essential for many applications.25. Use File.readAsString() to read the whole file.26. Error handling is important in file operations.27. This sentence will be read by your Dart program.28. The next sentence is almost the last one.29. Just one more to go!30. You've reached the end of the file.1. The quick brown fox jumps over the lazy dog.2. Dart is a client-optimized language for fast apps.3. Flutter uses Dart to build beautiful UIs.4. Reading a file in Dart is simple with the dart:io package.5. This is the fifth sentence in the file.6. The sun rises in the east.7. Apples are red, green, or yellow.8. Coding is both fun and challenging.9. Practice makes perfect.10. A watched pot never boils.11. The file has exactly thirty lines.12. You can write to a file in Dart too.13. Always close files after reading or writing.14. Lists in Dart are similar to arrays.15. String interpolation is easy in Dart.16. The sky is blue on a clear day.17. Cats sleep for most of the day.18. This sentence is just filler text.19. The more you learn, the more you grow.20. Dart supports both async and sync I/O.21. Variables in Dart can be statically or dynamically typed.22. This is sentence number twenty-two.23. Hello, world!24. File I/O is essential for many applications.25. Use File.readAsString() to read the whole file.26. Error handling is important in file operations.27. This sentence will be read by your Dart program.28. The next sentence is almost the last one.29. Just one more to go!30. You've reached the end of the file.1. The quick brown fox jumps over the lazy dog.2. Dart is a client-optimized language for fast apps.3. Flutter uses Dart to build beautiful UIs.4. Reading a file in Dart is simple with the dart:io package.5. This is the fifth sentence in the file.6. The sun rises in the east.7. Apples are red, green, or yellow.8. Coding is both fun and challenging.9. Practice makes perfect.10. A watched pot never boils.11. The file has exactly thirty lines.12. You can write to a file in Dart too.13. Always close files after reading or writing.14. Lists in Dart are similar to arrays.15. String interpolation is easy in Dart.16. The sky is blue on a clear day.17. Cats sleep for most of the day.18. This sentence is just filler text.19. The more you learn, the more you grow.20. Dart supports both async and sync I/O.21. Variables in Dart can be statically or dynamically typed.22. This is sentence number twenty-two.23. Hello, world!24. File I/O is essential for many applications.25. Use File.readAsString() to read the whole file.26. Error handling is important in file operations.27. This sentence will be read by your Dart program.28. The next sentence is almost the last one.29. Just one more to go!30. You've reached the end of the file.1. The quick brown fox jumps over the lazy dog.
+2. Dart is a client-optimized language for fast apps.
+3. Flutter uses Dart to build beautiful UIs.
+4. Reading a file in Dart is simple with the dart:io package.
+5. This is the fifth sentence in the file.
+6. The sun rises in the east.
+7. Apples are red, green, or yellow.
+8. Coding is both fun and challenging.
+9. Practice makes perfect.
+10. A watched pot never boils.
+11. The file has exactly thirty lines.
+12. You can write to a file in Dart too.
+13. Always close files after reading or writing.
+14. Lists in Dart are similar to arrays.
+15. String interpolation is easy in Dart.
+16. The sky is blue on a clear day.
+17. Cats sleep for most of the day.
+18. This sentence is just filler text.
+19. The more you learn, the more you grow.
+20. Dart supports both async and sync I/O.
+21. Variables in Dart can be statically or dynamically typed.
+22. This is sentence number twenty-two.
+23. Hello, world!
+24. File I/O is essential for many applications.
+25. Use File.readAsString() to read the whole file.
+26. Error handling is important in file operations.
+27. This sentence will be read by your Dart program.
+28. The next sentence is almost the last one.
+29. Just one more to go!
+30. You've reached the end of the file.
+1. The quick brown fox jumps over the lazy dog.
+2. Dart is a client-optimized language for fast apps.
+3. Flutter uses Dart to build beautiful UIs.
+4. Reading a file in Dart is simple with the dart:io package.
+5. This is the fifth sentence in the file.
+6. The sun rises in the east.
+7. Apples are red, green, or yellow.
+8. Coding is both fun and challenging.
+9. Practice makes perfect.
+10. A watched pot never boils.
+11. The file has exactly thirty lines.
+12. You can write to a file in Dart too.
+13. Always close files after reading or writing.
+14. Lists in Dart are similar to arrays.
+15. String interpolation is easy in Dart.
+16. The sky is blue on a clear day.
+17. Cats sleep for most of the day.
+18. This sentence is just filler text.
+19. The more you learn, the more you grow.
+20. Dart supports both async and sync I/O.
+21. Variables in Dart can be statically or dynamically typed.
+22. This is sentence number twenty-two.
+23. Hello, world!
+24. File I/O is essential for many applications.
+25. Use File.readAsString() to read the whole file.
+26. Error handling is important in file operations.
+27. This sentence will be read by your Dart program.
+28. The next sentence is almost the last one.
+29. Just one more to go!
+30. You've reached the end of the file.
+1. The quick brown fox jumps over the lazy dog.
+2. Dart is a client-optimized language for fast apps.
+3. Flutter uses Dart to build beautiful UIs.
+4. Reading a file in Dart is simple with the dart:io package.
+5. This is the fifth sentence in the file.
+6. The sun rises in the east.
+7. Apples are red, green, or yellow.
+8. Coding is both fun and challenging.
+9. Practice makes perfect.
+10. A watched pot never boils.
+11. The file has exactly thirty lines.
+12. You can write to a file in Dart too.
+13. Always close files after reading or writing.
+14. Lists in Dart are similar to arrays.
+15. String interpolation is easy in Dart.
+16. The sky is blue on a clear day.
+17. Cats sleep for most of the day.
+18. This sentence is just filler text.
+19. The more you learn, the more you grow.
+20. Dart supports both async and sync I/O.
+21. Variables in Dart can be statically or dynamically typed.
+22. This is sentence number twenty-two.
+23. Hello, world!
+24. File I/O is essential for many applications.
+25. Use File.readAsString() to read the whole file.
+26. Error handling is important in file operations.
+27. This sentence will be read by your Dart program.
+28. The next sentence is almost the last one.
+29. Just one more to go!
+30. You've reached the end of the file.
